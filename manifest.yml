@@ -1,0 +1,5 @@
+---
+applications:
+ - name: bona-wibowo-computer-vision-app
+   random-random: true
+   memory: 128M

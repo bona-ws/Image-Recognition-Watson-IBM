@@ -1,0 +1,4 @@
+Flask==1.0.3
+Flask-WTF==0.14.2
+ibm-watson==3.0.4
+python-dotenv==0.10.3
